@@ -1,0 +1,4 @@
+promethues comes with alert manager:
+node exporter: node metrics to promoethue
+kube-system-metrics : kubernetes level metrics to promethues
+for application: user to scrape metrics from /metrics end point
